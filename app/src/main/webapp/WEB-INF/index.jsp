@@ -3,9 +3,9 @@
     <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Document</title>
+        <title>aulão do marcão</title>
     </head>
     <body>
-        <h1>Olá Mundo!!!</h1>
+        <h1>Mensagem: ${message}</h1>
     </body>
 </html>
